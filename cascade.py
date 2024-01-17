@@ -1,6 +1,6 @@
 import cv2 as cv
 import numpy as np
-
+#change thử
 class harr_detector:
     def __init__(self):
         self.face_casecade = cv.CascadeClassifier()
